@@ -37,6 +37,18 @@
 
 ---
 
+### Projekte
+
+#### Arbeitsmarkt Regensburg [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://daelwve9mj8pxz32vshq7u.streamlit.app/)
+
+**[Live-Dashboard](https://daelwve9mj8pxz32vshq7u.streamlit.app/)**
+
+#### Qualitäts-Muster-Finder [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://appdashboardpy-dkgplgkkzczyvnwpfjjcsp.streamlit.app/)
+
+**[Live-Dashboard](https://appdashboardpy-dkgplgkkzczyvnwpfjjcsp.streamlit.app/)**
+
+---
+
 ### Kontakt
 
 - **Standort:** Regensburg, Deutschland
